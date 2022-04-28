@@ -3,14 +3,14 @@
 <id>guanjia</id>
 <name>搜外内容管家平台</name>
 <url></url>
-<note>搜外内容管家采集(guanjia.seowhy.com)是一个完全在线配置和云采集的网页数据采集和发布平台，功能强大，操作简单，配置更加快捷高效。支持定时采集，自动发布；集成强大的SEO工具；集成翻译等服务;图片下载支持存储到阿里云OSS、七牛存储、腾讯云存储，并支持压缩和水印；支持站群发布。</note>
+<note>不需要采集！不需要配置任何规则！ 一分钟即可完成配置躺平发布拥有伪原创文章 seo必备一站式文章内容方案</note>
 <description></description>
 <path>main.php</path>
 <include>include.php</include>
 <level>1</level>
 <author>
-  <name>guanjia</name>
-  <email>admin@guanjia.seowhy.com</email>
+  <name>搜外内容管家</name>
+  <email>488043287@qq.com</email>
   <url>https://guanjia.seowhy.com</url>
 </author>
 <source>
@@ -19,11 +19,11 @@
   <url></url>
 </source>
 <adapted>151935</adapted>
-<version>4.11</version>
-<pubdate>2019-09-08</pubdate>
-<modified>2021-03-26</modified>
+<version>1.0.0</version>
+<pubdate>2022-04-28</pubdate>
+<modified>2022-04-28</modified>
 <price>0</price>
-<phpver>5.2</phpver>
+<phpver>5.3</phpver>
 <advanced>
   <dependency></dependency>
   <rewritefunctions></rewritefunctions>

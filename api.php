@@ -25,7 +25,7 @@ if (time()-$guanjia_time > 600) {
 $guanjia_config_guanjia_token = 'guanjia_token';
 $guanjia_token = $zbp->Config('guanjia')->$guanjia_config_guanjia_token;
 if (empty($_REQUEST['guanjia_token']) || $_REQUEST['guanjia_token'] != md5($guanjia_time . $guanjia_token)) {
-    guanjia_failRsp(1003, "guanjia_token error", "提交的发布密码错误");
+    guanjia_failRsp(1003, "guanjia_token error", "提交的token错误");
 }
 
 if ($_REQUEST["action"] == "articleAdd") {

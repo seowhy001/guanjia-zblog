@@ -116,7 +116,7 @@ require $blogpath . 'zb_system/admin/admin_top.php';
             </td>
           </tr>
           <tr>
-            <td>发布密码:</td>
+            <td>token:</td>
             <td><input type="text" name="guanjia_token" class="config-input" value="<?php echo $guanjia_token; ?>" />（请注意修改并保管好,到 <a href="https://guanjia.seowhy.com" target="_blank">搜外内容管家控制台</a>发布需要用到）
             </td>
           </tr>
