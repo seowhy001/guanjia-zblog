@@ -6,4 +6,4 @@
 不需要采集！不需要配置任何规则！ 一分钟即可完成配置躺平发布拥有伪原创文章 seo必备一站式文章内容方案
 
 #### 安装教程
-<a href="https://www.seowhy.com/a/2089.html">图文说明文档</a>
+<a href="https://www.seowhy.com/a/2091.html">图文说明文档</a>
